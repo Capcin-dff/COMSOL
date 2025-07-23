@@ -1,2 +1,2 @@
 # COMSOL
-Physics Simulation using COMSOL
+Optical Device Simulations using COMSOL
